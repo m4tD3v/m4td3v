@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Matt, a 32 year old Software Developer/Engineer/Manager from South Africa.
+I'm Matt, a 32 year old Software Developer/Engineer/Manager from South Africa 🇿🇦
 
-I only started coding at Stellenbosch University, but I loved tech from probably before birth when the first ultrasound was taken of me in the belly. 😉
+I'm really a relaxed person, am easy to get on with and enjoy collaborating with others to share knowledge and implement cool solutions. 
 
-[Supaplex](https://www.google.com/search?q=supaplex) was my go to game from when I can first remember!
+I enjoy working out, being outdoors and keeping a healthy balanced lifestyle, with an unhealthy addiction to Scuba Diving and Rock-pooling! 🐬
 
-I'm really a relaxed person, am easy to get on with and enjoy collaborating with others to share knowledge. I enjoy working out, being outdoors and keeping a healthy balanced lifestyle, with an unhealthy addiction to Scuba Diving and Rock-pooling! Also a big F1 fan!
+Also a big F1 fan!🏎️
 
-I co-founded and built an app in Flutter & Firebase 📱 nudi.io which is available on both iOS and Android and can be used to assist in identifying Nudibranchs (ask me about them!). We gained over 1000 users within our first month of launch and are nearing 2000 in our 3rd month.
+I co-founded and built an app in Flutter & Firebase 📱 [nudi.io](https://nudi.io) which is available on both iOS and Android and can be used to assist in identifying Nudibranchs (ask me about them!). We gained over 1000 users within our first month of launch.
 
 ## 👴 Experience
  - **Software Program Manager at [Brsk](brsk.co.uk)** *[2024/03 - present]*
