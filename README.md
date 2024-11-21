@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Matt, a 32 year old Software Developer/Engineer/Manager from South Africa 🇿🇦
+I'm Matt, Software Developer/Engineer/Manager from South Africa 🇿🇦
 
-I'm really a relaxed person, am easy to get on with and enjoy collaborating with others to share knowledge and implement cool solutions. 
+I'm really a relaxed person, easy to get on with and enjoy collaborating with others to share knowledge and implement cool solutions. 
 
 I enjoy working out, being outdoors and keeping a healthy balanced lifestyle, with an unhealthy addiction to Scuba Diving and Rock-pooling! 🐬
 
@@ -11,9 +11,16 @@ Also a big F1 fan!🏎️
 I co-founded and built an app in Flutter & Firebase 📱 [nudi.io](https://nudi.io) which is available on both iOS and Android and can be used to assist in identifying Nudibranchs (ask me about them!). We gained over 1000 users within our first month of launch.
 
 ## 👴 Experience
- - **Software Program Manager at [Brsk](brsk.co.uk)** *[2024/03 - present]*
+ - **Senior Developer at [Brsk](brsk.co.uk)** *[2024/09 - present]*
 
-At Brsk, I'm one of two Software program Managers. My role primarily focuses on the well being of developers and planning and delivering of commitments to business.
+Currently working on Django backend products with vue Frontends.
+
+*Key Skills: Python, Django, AWS, DevOps*
+___
+
+ - **Software Program Manager at [Brsk](brsk.co.uk)** *[2024/03 - 2024/08]*
+
+As Software Program Manager at Brsk, my role primarily focused on the well being of developers and planning and delivering of commitments to business.
 
 I've found micro-planning with my team works best, as we have lots of context switching, so we focus on weekly deliverables.
 
