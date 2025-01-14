@@ -1,14 +1,25 @@
 ## Hi there 👋
 
-I'm Matt, Software Developer/Engineer/Manager from South Africa 🇿🇦
+![alt text](https://nudi.io/wp-content/uploads/2025/01/Pink-and-Black-Duo-Tone-Seamless-Carousel-Instagram-Post.png)
 
-I'm really a relaxed person, easy to get on with and enjoy collaborating with others to share knowledge and implement cool solutions. 
 
-I enjoy working out, being outdoors and keeping a healthy balanced lifestyle, with an unhealthy addiction to Scuba Diving and Rock-pooling! 🐬
+I'm a nudibranchist. If that was ever a word, but nud1st probably wouldn't go down well on here (and I'm not one of those!) 
 
-Also a big F1 fan!🏎️
+What is a nudibranchist, you might ask? If it were a legitimate word, it would probably be someone who likes nudibranchs - too much!
 
-I co-founded and built an app in Flutter & Firebase 📱 [nudi.io](https://nudi.io) which is available on both iOS and Android and can be used to assist in identifying Nudibranchs (ask me about them!). We gained over 1000 users within our first month of launch.
+Using my background in tech, I built a Flutter app to help identify and log these colourful sea slugs from your rock pooling or diving adventures. They're really popular among divers, and have somewhat of a cult following. If I'm not working, improving the app or watching Formula 1, you'll probably find me under the sea!
+
+My passions obviously have some influence on my work as a most of my background is in Sea Sharp (C what I did there?)
+
+Enough hullabaloo, let's get to the professional aspect:
+
+I'm a Senior developer with a wealth of Software Development experience who can switch up languages and frameworks but still align with core principles such as SOLID, KISS and Clean code Architectures.
+
+I've worked in Telecommunications, Engineering and Payments and enjoy working on complex tasks where I get to build usable solutions. Python, C#, Dart, TypeScript and JavaScript are my main languages I've worked in, but I'm happy to learn and learn fast when needed.
+
+I've worked with on-premises systems and cloud hosted solutions using AWS, and I'm happy to take on DevOps tasks and processes. I enjoy building end-to end solutions, and although I primarily focus on Backend, I'm happy to sell my soul and build frontends.
+
+In the end, I just want to build cool sh1t!
 
 ## 👴 Experience
  - **Senior Developer at [Brsk](brsk.co.uk)** *[2024/09 - present]*
